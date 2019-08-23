@@ -45,5 +45,7 @@ gif:
 7. https://codepen.io/
 
 深入浅出 webpack(在线学习)
-* http://webpack.wuhaolin.cn/
+* 官网地址: https://webpack.github.io/
+* 中文文档: https://www.webpackjs.com/
+* 在线文档: http://webpack.wuhaolin.cn/
 * PDF(网盘地址): 链接: https://pan.baidu.com/s/1rJ13jYfLufEfcGtB7dZffA 提取码: bfsc 
