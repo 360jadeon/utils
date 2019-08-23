@@ -43,3 +43,7 @@ gif:
 5. https://tympanus.net/codrops/
 6. http://thecodeplayer.com/
 7. https://codepen.io/
+
+深入浅出 webpack(在线学习)
+* http://webpack.wuhaolin.cn/
+* PDF(网盘地址): 链接: https://pan.baidu.com/s/1rJ13jYfLufEfcGtB7dZffA 提取码: bfsc 
