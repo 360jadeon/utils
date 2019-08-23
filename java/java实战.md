@@ -1,4 +1,4 @@
-Java 实战项目分享
+Java 实战项目分享(JDK、数据库API、搜索引擎和框架源码)
 ==================================
 
 # spring:
@@ -38,9 +38,9 @@ http://www.apache.org/
 3. https://www.oracle.com/technetwork/cn/indexes/documentation/index.html
 
 # 时间:
-https://www.joda.org/
++ https://www.joda.org/
 
 # POI:
-http://easypoi.mydoc.io/
++ http://easypoi.mydoc.io/
 
 
