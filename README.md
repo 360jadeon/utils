@@ -87,4 +87,4 @@ Markdown 支持两种形式的链接语法： 行内式和参考式两种形式�
 图片的语法和超链接非常相似。只显示图片：![github](http://example.com/unicorn.png “github”)；点击图片进入另一个网页：[![image]](http://www.example.com/) [image]: http://example.com/example.png “example“
 
 点击图片添加微信:[![https://github.com/Jad-eon/utils/blob/master/wx.JPG]]
-[![https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1566547718&di=dc93106a838df3f55cb228268efd0648&src=http://hbimg.b0.upaiyun.com/357db957ce1cf772649db3dbd978d067ded445eee579-GltVHC_fw658]
+
