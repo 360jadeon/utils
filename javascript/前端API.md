@@ -48,4 +48,3 @@ gif:
 * 官网地址: https://webpack.github.io/
 * 中文文档: https://www.webpackjs.com/
 * 在线文档: http://webpack.wuhaolin.cn/
-* PDF(网盘地址): https://pan.baidu.com/s/1rJ13jYfLufEfcGtB7dZffA (提取码: bfsc )
