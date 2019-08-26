@@ -51,4 +51,4 @@ gif:
 * 中文文档: https://www.webpackjs.com/
 * 在线文档: http://webpack.wuhaolin.cn/
 
-[☺ 返回目录 ☺](#目录)
+[❤ 返回目录 ❤](#目录)
