@@ -47,7 +47,7 @@ CSS3动力悬停效果的集合，适用于链接，按钮，徽标，SVG，特�
 1. https://github.com/IanLunn/Hover
 
 CSS 的 Flexbox 布局
-1. https://github.com/veedrin/horseshoe/blob/master/flex/flex.md
+* https://github.com/veedrin/horseshoe/tree/master/flex
 
 215天气主题图标和CSS
 1. https://github.com/erikflowers/weather-icons
