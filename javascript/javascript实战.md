@@ -24,6 +24,9 @@ How to write jQuery plugin
 1. https://github.com/AlloyTeam/CodeGuide  
 2. http://alloyteam.github.io/CodeGuide/
 
+表格无缝向上滚动:
+* http://www.jq22.com/webqd4276
+
 图表:
 1. http://vizuly.io/docs-getting-started/
 2. http://echarts.baidu.com/
