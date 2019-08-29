@@ -51,4 +51,14 @@ gif:
 * 中文文档: https://www.webpackjs.com/
 * 在线文档: http://webpack.wuhaolin.cn/
 
+
+每日分享互联网上的前端技术、前端资讯:
+* https://github.com/kujian/frontendDaily
+
+Zeu.js是一个JavaScript库，包含一系列预构建的可视化组件，用于构建实时电视仪表板，监控UI和物联网Web界面。
+* https://github.com/shzlw/zeu
+
+jsliang 的文档库. 里面包含了所有的前端文章，例如 vue、react,、angular、微信小程序、设计模式等……
+* https://github.com/LiangJunrong/document-library
+
 [❤ 返回目录 ❤](#目录)
