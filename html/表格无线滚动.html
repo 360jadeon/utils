@@ -140,15 +140,12 @@
         $('.tbl-body').css('top', '0');
         var tblTop = 0;
         var speedhq = 50; // 数值越大越慢
-       // var outerHeight = $('.tbl-body tbody').find("tr").outerHeight();
-        var outerHeight = 45;
+        var outerHeight = $('.tbl-body tbody').find("tr").outerHeight();
         function Marqueehq(){
-            //console.info('outerHeight = ' + outerHeight)
             if(tblTop <= -outerHeight*Items.length)
                 tblTop = 0;
             else
                 tblTop -= 1;
-            //console.info('tblTop = ' + tblTop)
             $('.tbl-body').css('top', tblTop+'px');
         }
 
@@ -160,7 +157,5 @@
             clearInterval(MyMarhq);
             MyMarhq = setInterval(Marqueehq,speedhq);
         })
-
-
     }
 </script>
