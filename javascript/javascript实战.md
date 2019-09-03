@@ -36,7 +36,8 @@ How to write jQuery plugin
 6. https://www.chartjs.org/
 7. http://www.finereport.com/
 8. https://github.com/apexcharts/apexcharts.js
-https://gitee.com/mirrors/ApexChartsJS
+9. https://gitee.com/mirrors/ApexChartsJS
+10. https://github.com/timqian/chart.xkcd
 
 图标:
 1. https://blog.usepastel.com/post/33-beautiful-free-icon-sets
