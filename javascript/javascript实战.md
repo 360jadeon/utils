@@ -64,6 +64,7 @@ Day.js是一个极简主义的JavaScript库和 Moment.js 的 API 设计保持完
 2. http://www.jq22.com/yanshi14735
 3. https://github.com/atomiks/tippyjs
 4. https://github.com/sweetalert2/sweetalert2/
+5. https://github.com/marcelodolza/iziToast
 
 进度条:
 1. http://www.jq22.com/jquery-info14683
