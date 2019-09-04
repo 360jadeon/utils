@@ -13,6 +13,7 @@ javascript实战(语法、插件和笔者)
 8. https://yuchengkai.cn/docs/frontend/
 9. http://eloquentjavascript.net/
 10. http://jquery.cuishifeng.cn/
+11. https://www.bootschool.net/
 
 How to write jQuery plugin
 1. https://github.com/axios/axios
