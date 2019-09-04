@@ -6,8 +6,10 @@ spring:
 1. https://spring.io/
 2. https://spring.io/docs/reference
 3. https://springcloud.cc/ 
+
 springboot 配置文件(版本2.1.5)
 + https://docs.spring.io/spring-boot/docs/2.1.5.BUILD-SNAPSHOT/reference/htmlsingle/#common-application-properties
++ 启动图案: https://www.bootschool.net/ascii-art
 
 验证码:
 1. https://captcha.org/
