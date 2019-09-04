@@ -93,6 +93,7 @@ Three
 
 上传文件:
 1. https://github.com/transloadit/uppy
+2. https://www.dropzonejs.com/
 
 加密
 1. https://github.com/blueimp/JavaScript-MD5
