@@ -10,7 +10,9 @@ spring:
 springboot 配置文件(版本2.1.5)
 + https://docs.spring.io/spring-boot/docs/2.1.5.BUILD-SNAPSHOT/reference/htmlsingle/#common-application-properties
 + 启动图案: https://www.bootschool.net/ascii-art
-+ 图片转ASCII 艺术: https://www.ascii-art-generator.org/
++ 图片转ASCII 艺术: 
++ ❤ https://www.ascii-art-generator.org/
++ ❤ https://www.degraeve.com/img2txt.php
 + lakers图片: http://pic1.win4000.com/mobile/d/522555bd949e8_120_80.jpg
 
 验证码:
