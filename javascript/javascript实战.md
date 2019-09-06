@@ -28,6 +28,10 @@ How to write jQuery plugin
 表格无缝向上滚动:
 * http://www.jq22.com/webqd4276
 
+地图
++ 高德: https://lbs.amap.com/
++ 百度: http://lbsyun.baidu.com/
+
 图表:
 1. http://vizuly.io/docs-getting-started/
 2. http://echarts.baidu.com/
