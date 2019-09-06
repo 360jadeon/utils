@@ -126,4 +126,7 @@ Three
 1. https://www.oschina.net/p/share-js
 2. http://www.jq22.com/jquery-info13612
 
+video:
++ https://github.com/sampotts/plyr
+
 [㊤ 返回目录 ㊤](#目录)
