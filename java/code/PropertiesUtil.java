@@ -3,7 +3,7 @@ import java.util.Properties;
 
 /**
   * 获取.properties文件的属性值
-  **/
+  */
 public class PropertiesUtil {
 	private static Properties p = new Properties();
 	private static String f;
