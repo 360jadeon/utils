@@ -42,9 +42,8 @@ public class DateUtil {
 	 * 判断日期是否在范围内，包含相等的日期
 	 */
 	public static boolean isBetween(@NotNull final Date date, @NotNull final Date start, @NotNull final Date end) {
-		if (date == null || start == null || end == null || start.after(end)) {
+		if (date == null || start == null || end == null || start.after(end)) 
 			throw new IllegalArgumentException("some date parameters is null or dateBein after dateEnd");
-		}
 		return !date.before(start) && !date.after(end);
 	}
 
@@ -147,9 +146,8 @@ public class DateUtil {
 	 * 设置月份, 1-12.
 	 */
 	public static Date setMonths(@NotNull final Date date, int amount) {
-		if (amount < 1 || amount > 12) {
+		if (amount < 1 || amount > 12) 
 			throw new IllegalArgumentException("monthOfYear must be in the range[ 1, 12]");
-		}
 		return DateUtils.setMonths(date, amount - 1);
 	}
 
@@ -405,12 +403,10 @@ public class DateUtil {
 	 */
 	public static int getMonthLength(int year, int month) {
 
-		if ((month < 1) || (month > 12)) {
+		if ((month < 1) || (month > 12)) 
 			throw new IllegalArgumentException("Invalid month: " + month);
-		}
-		if (month == 2) {
+		if (month == 2) 
 			return isLeapYear(year) ? 29 : 28;
-		}
 
 		return MONTH_LENGTH[month];
 	}
