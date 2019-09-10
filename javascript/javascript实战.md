@@ -99,6 +99,7 @@ Three
 上传文件:
 1. https://github.com/transloadit/uppy
 2. https://www.dropzonejs.com/
+3. https://github.com/pqina/filepond
 
 加密
 1. https://github.com/blueimp/JavaScript-MD5
