@@ -28,11 +28,13 @@ Python 中文学习大本营
 + http://www.pythondoc.com/
 
 框架：
-Django book 2.0/2.2 
+1. Django book 2.0/2.2 
 + http://djangobook.py3k.cn/2.0/
 + https://docs.djangoproject.com/zh-hans/2.2/
 在线Django企业开发实战
 + http://django-practice-book.com/
+2. 微信
++ https://itchat.readthedocs.io/zh/latest/
 
 如何高效学 Python？
 https://sspai.com/post/53500
