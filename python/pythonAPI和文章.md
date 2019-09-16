@@ -18,6 +18,7 @@ python语法、资讯、文章等
 + https://www.yuanrenxue.com/  
 + https://www.zlovezl.cn/
 + http://c.biancheng.net/python/
++ https://www.zmrenwu.com/courses/
 像计算机科学家一样思考Python
 + https://www.ctolib.com/docs/sfile/think-python-2e/0.html
 Python之旅
