@@ -42,15 +42,18 @@ public class JDBCUtils {
                 Class.forName(driver);
                 return DriverManager.getConnection(url,user,password);
         }
+ 
         //获取statement对象
         private static Statement createStatement(Connection con) throws SQLException{
                 // TODO Auto-generated method stub
                 return con.createStatement();
         }
+ 
         //获取preparedStatement对象
         public static PreparedStatement preparedStatement(Connection con,String sql) throws SQLException{
                 return con.prepareStatement(sql);
         }
+ 
         // 执行一条静态SQL命令[insert/update/delete]
         public static int execUpdates(String sql) throws SQLException, ClassNotFoundException {
                 Connection con = getConnection();
@@ -59,18 +62,20 @@ public class JDBCUtils {
                 closeConnection(con, st, null, null);
                 return iCount;
         }
+ 
         // 执行多条静态SQL命令[insert/update/delete]
-                public static int[] execUpdates(String[] sql) throws SQLException, ClassNotFoundException {
-                        Connection con = getConnection();
-                        Statement st = createStatement(con);
-                        for (int i = 0; i < sql.length; i++) {
-                                st.addBatch(sql[i]);
-                        }
-                         
-                        int[] iCount = st.executeBatch();
-                        closeConnection(con, st, null, null);
-                        return iCount;
+        public static int[] execUpdates(String[] sql) throws SQLException, ClassNotFoundException {
+                Connection con = getConnection();
+                Statement st = createStatement(con);
+                for (int i = 0; i < sql.length; i++) {
+                        st.addBatch(sql[i]);
                 }
+
+                int[] iCount = st.executeBatch();
+                closeConnection(con, st, null, null);
+                return iCount;
+        }
+ 
         // 执行一条动态的SQL命令[insert/update/delete]
         public static int execUpdate(String sql,Object[] params) throws SQLException, ClassNotFoundException {
                 Connection con = getConnection();
@@ -152,6 +157,7 @@ public class JDBCUtils {
                 closeConnection(con, pst, null, rs);
                 return list;
         }
+ 
         // 关闭连接，释放资源
         public static void closeConnection(Connection con, Statement st, PreparedStatement pst, ResultSet rs)
                         throws SQLException {
