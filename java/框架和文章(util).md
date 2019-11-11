@@ -49,6 +49,7 @@ mysql、SQLserver、oracle
 
 POI:
 + http://easypoi.mydoc.io/
++ https://github.com/alibaba/easyexcel
 
 Java 工具包：
 + https://github.com/looly/hutool
@@ -57,7 +58,12 @@ Java 工具包：
 实战项目：
 + https://github.com/heibaiying/spring-samples-for-all
 + https://github.com/elunez/eladmin
-+ https://gitee.com/y_project/RuoYi
-
++ https://gitee.com/y_project/RuoYi http://ruoyi.vip/
++ https://github.com/APIJSON/APIJSON
++ https://github.com/Curzibn/Luban 【图片】
++ https://github.com/macrozheng/mall
++ https://github.com/lenve/vhr
++ https://github.com/jtablesaw/tablesaw
++ https://github.com/bbottema/simple-java-mail
 
 [㊤ 返回目录 ㊤](#目录)
