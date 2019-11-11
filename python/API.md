@@ -44,6 +44,9 @@ https://automatetheboringstuff.com/
 Python - 100天从新手到大师
 + https://github.com/jackfrued/Python-100-Days
 
+彩色二维码：
++ https://github.com/sylnsfar/qrcode
+
 在线工具-画对象实体模型
 + https://editor.ponyorm.com/
 
