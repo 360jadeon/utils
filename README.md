@@ -103,7 +103,7 @@ Markdown 支持两种形式的链接语法： 行内式和参考式两种形式�
 
 系统下载：
 + [MSDN](https://msdn.itellyou.cn/?lang=en-us "MSDN")
-+ [官网](https://www.microsoft.com/en-us/software-download/windows10 "官网"）
++ [官网](https://www.microsoft.com/en-us/software-download/windows10 "官网")
 
 一枚❤🏀的程序猿:(kuzma、艾林林最爱的篮女)
 ![image](wx.jpg)
