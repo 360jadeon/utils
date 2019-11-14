@@ -55,6 +55,7 @@ Java 工具包：
 + https://github.com/looly/hutool
 + https://github.com/wyouflf/xUtils3
 + http://commons.apache.org/ ★
++ [Java 8新特性](https://github.com/winterbe/java8-tutorial "Java 8新特性")
 
 实战项目：
 + https://github.com/heibaiying/spring-samples-for-all
