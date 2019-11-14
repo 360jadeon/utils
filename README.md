@@ -92,6 +92,9 @@ Markdown 支持两种形式的链接语法： 行内式和参考式两种形式�
 * https://hellogithub.com/
 * http://overapi.com/
 
+Java资源大全中文版:
++ https://github.com/jobbole/awesome-java-cn
+
 程序员的自我修养
 + https://www.kancloud.cn/kancloud/a-programmer-prepares/78160
 
