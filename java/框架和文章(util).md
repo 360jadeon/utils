@@ -57,6 +57,7 @@ Java 工具包：
 + http://commons.apache.org/ ★
 + [Java 8新特性](https://github.com/winterbe/java8-tutorial "Java 8新特性")
 + https://github.com/eugenp/tutorials
++ [唯品会](https://github.com/vipshop/vjtools "唯品会")
 
 实战项目：
 + https://github.com/heibaiying/spring-samples-for-all
