@@ -14,6 +14,11 @@ import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * 可结合前端一起使用：
+ * https://github.com/travist/jsencrypt
+ * 
+ */
 public class RSAUtil {
 
     private static final KeyPair keyPair = initKey();
