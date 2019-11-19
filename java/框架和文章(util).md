@@ -19,6 +19,7 @@ springboot 配置文件(版本2.1.5)
 1. https://captcha.org/
 2. https://github.com/penggle/kaptcha
 3. http://www.voidcn.com/article/p-chztcyji-bqm.html
+4. http://jcaptcha.sourceforge.net/
 
 PDF及对应代码下载:
 + https://brainysoftware.com/home
