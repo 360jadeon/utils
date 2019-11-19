@@ -2,11 +2,6 @@ package com.jadeon.random;
 
 import java.util.Random;
 
-/**
- * @ Author     ：Jadeon
- * @ Date       ：2019-03-14
- * @ Description：随机字符串生成
- */
 public class RandomUtil {
 
     public static final String ALLCHAR = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
