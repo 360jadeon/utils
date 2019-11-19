@@ -55,6 +55,7 @@ POI:
 + http://likaixuan.top/excelUtil
 + https://github.com/liaochong/myexcel
 + https://gitee.com/Crab2Died/Excel4J
++ [Java对象和Excel转换工具](https://github.com/xuxueli/xxl-excel/ "Java对象和Excel转换工具")
 
 Java 工具包：
 + https://github.com/looly/hutool
