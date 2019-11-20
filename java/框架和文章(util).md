@@ -78,5 +78,6 @@ Java 工具包：
 + https://github.com/darrachequesne/spring-data-jpa-datatables
 + https://gitee.com/glorylion/JFinalOA 【OA】
 + https://github.com/elunez/eladmin
++ [javaex前端框架](http://www.javaex.cn/ "javaex前端框架")
 
 [㊤ 返回目录 ㊤](#目录)
