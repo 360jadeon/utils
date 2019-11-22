@@ -101,6 +101,9 @@ Java资源大全中文版:
 每日热榜:
 + https://www.printf520.com/hot.html
 
+捷径盒：
++ https://jiejinghe.com/tags/fun
+
 面试反问面试官：
 + https://github.com/yifeikong/reverse-interview-zh
 
