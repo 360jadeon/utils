@@ -118,3 +118,6 @@ Java资源大全中文版:
 
 b站视频下载：
 + https://www.kanbilibili.com/video/
+
+> *[站酷ZCOOL](https://www.zcool.com.cn/"站酷ZCOOL")*
+
