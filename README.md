@@ -104,9 +104,6 @@ Java资源大全中文版:
 捷径盒：
 + https://jiejinghe.com/tags/fun
 
-面试反问面试官：
-+ https://github.com/yifeikong/reverse-interview-zh
-
 系统下载：
 + [MSDN](https://msdn.itellyou.cn/?lang=en-us "MSDN")
 + [官网](https://www.microsoft.com/en-us/software-download/windows10 "官网")
