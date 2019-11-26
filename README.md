@@ -119,5 +119,5 @@ Java资源大全中文版:
 b站视频下载：
 + https://www.kanbilibili.com/video/
 
-> *[站酷(ZCOOL)-设计师互动平台](https://www.zcool.com.cn/"站酷ZCOOL")*
+> *[站酷(ZCOOL)-设计师互动平台](https://www.zcool.com.cn/ "站酷ZCOOL")*
 
