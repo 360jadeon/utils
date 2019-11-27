@@ -72,16 +72,20 @@ Java 工具包：
 > * 技术官网： http://www.jeecg.com
 > * 开发文档： http://doc.jeecg.com/1273753
 > * 视频教程 ：JeecgBoot入门系列视频
+
 > spring、spring-boot、spring-cloud 常用整合用例 
 > * https://github.com/heibaiying/spring-samples-for-all
+
 > https://github.com/elunez/eladmin
 > * 基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 > * 在线演示 ： https://auauz.net/
 > * 开发文档 :  https://docs.auauz.net/
+
 > https://gitee.com/y_project/RuoYi http://ruoyi.vip/
 > * SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。
 > * 演示地址：http://ruoyi.vip
 > * 文档地址：http://doc.ruoyi.vip
+
 + https://github.com/APIJSON/APIJSON
 + https://github.com/Curzibn/Luban 【图片】
 + https://github.com/macrozheng/mall
