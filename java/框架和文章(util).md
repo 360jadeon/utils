@@ -66,6 +66,15 @@ Java 工具包：
 + [唯品会](https://github.com/vipshop/vjtools "唯品会")
 
 实战项目：
+> https://github.com/zhangdaiscott/jeecg-boot
+> > 在线演示 ： http://boot.jeecg.com
+>
+> > 技术官网： http://www.jeecg.com
+>
+> > 开发文档： http://doc.jeecg.com/1273753
+>
+> > 视频教程 ：JeecgBoot入门系列视频
+>
 + https://github.com/heibaiying/spring-samples-for-all
 + https://github.com/elunez/eladmin
 + https://gitee.com/y_project/RuoYi http://ruoyi.vip/
