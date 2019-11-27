@@ -73,9 +73,6 @@ Java 工具包：
 > * 开发文档： http://doc.jeecg.com/1273753
 > * 视频教程 ：JeecgBoot入门系列视频
 
-> spring、spring-boot、spring-cloud 常用整合用例 
-> * https://github.com/heibaiying/spring-samples-for-all
-
 > https://github.com/elunez/eladmin
 > * 基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 > * 在线演示 ： https://auauz.net/
@@ -86,15 +83,29 @@ Java 工具包：
 > * 演示地址：http://ruoyi.vip
 > * 文档地址：http://doc.ruoyi.vip
 
-+ https://github.com/APIJSON/APIJSON
-+ https://github.com/Curzibn/Luban 【图片】
-+ https://github.com/macrozheng/mall
-+ https://github.com/lenve/vhr
-+ https://github.com/jtablesaw/tablesaw
-+ https://github.com/bbottema/simple-java-mail
-+ https://github.com/darrachequesne/spring-data-jpa-datatables
-+ https://gitee.com/glorylion/JFinalOA 【OA】
-+ https://github.com/elunez/eladmin
-+ [javaex前端框架](http://www.javaex.cn/ "javaex前端框架")
+> https://github.com/macrozheng/mall
+> * 项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+> * 在线演示 ： http://www.macrozheng.com/admin/index.html
+> * 项目文档 ： http://www.macrozheng.com
+> * 备用地址 ：https://macrozheng.github.io/mall-learning
+
+> https://gitee.com/glorylion/JFinalOA 【OA】
+> * JFinalOA 是基于 JFinal 框架开发的企业办公系统
+> * 演示地址：http://218.56.98.206:8092/JFinalOA
+> * 如何部署：http://218.56.98.206:8092/JFinalOA/front/help/howToRunJFinalOA
+
+> https://github.com/lenve/vhr
+> * 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发
+> * [项目部署视频教程](https://mp.weixin.qq.com/s/qN01Le434FWom0c3jqiQmA "项目部署视频教程")
+
+> spring、spring-boot、spring-cloud 常用整合用例 
+> * https://github.com/heibaiying/spring-samples-for-all
+
+> https://github.com/APIJSON/APIJSON
+> https://github.com/Curzibn/Luban 【图片】
+> https://github.com/jtablesaw/tablesaw
+> https://github.com/bbottema/simple-java-mail
+> https://github.com/darrachequesne/spring-data-jpa-datatables
+> [javaex前端框架](http://www.javaex.cn/ "javaex前端框架")
 
 [㊤ 返回目录 ㊤](#目录)
