@@ -44,6 +44,12 @@ https://automatetheboringstuff.com/
 Python - 100天从新手到大师
 + https://github.com/jackfrued/Python-100-Days
 
+实战项目：
+> https://github.com/opendevops-cn/opendevops
+> * 一款为用户提供企业多混合云、自动化运维、完全开源的云管理平台 开源多云管理平台将为用户提供多功能：ITSM、基于RBAC权限系统、Web Terminnal登陆日志审计、录像回放、强大的作业调度系统、CMDB、监控报警系统、DNS管理、配置中心等
+> * 官方文档：http://docs.opendevops.cn/zh/latest/
+> * 体验地址：http://demo.opendevops.cn/login （用户/密码：demo/2ZbFYNv9WibWcR7GB6kcEY）
+
 彩色二维码：
 + https://github.com/sylnsfar/qrcode
 
