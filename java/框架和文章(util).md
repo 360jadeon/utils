@@ -108,6 +108,13 @@ Java 工具包：
 > * 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发
 > * [项目部署视频教程](https://mp.weixin.qq.com/s/qN01Le434FWom0c3jqiQmA "项目部署视频教程")
 
+> https://github.com/newbee-ltd/newbee-mall
+> * newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块
+> * 项目演示
+> > - [视频1：商城项目总览](https://edu.csdn.net/course/play/26258/326466)
+> > - [视频2：商城系统介绍](https://edu.csdn.net/course/play/26258/326467)
+> > - [视频3：商城后台管理系统介绍](https://edu.csdn.net/course/play/26258/328801)
+
 > spring、spring-boot、spring-cloud 常用整合用例 
 > * https://github.com/heibaiying/spring-samples-for-all
 
