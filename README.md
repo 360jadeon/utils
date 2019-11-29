@@ -81,11 +81,16 @@ Markdown 支持两种形式的链接语法： 行内式和参考式两种形式�
 
 例子:
 > [css](./css "css")
-> [css](./html "css")
-> [css](./javascript "css")
-> [css](./java "css")
-> [css](./python "css")
-> [css](./wx "css")
+>
+> [html](./html "html")
+>
+> [javascript](./javascript "javascript")
+>
+> [java](./java "java")
+>
+> [python](./python "python")
+>
+> [wx](./wx "wx")
 
 该网站实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库
 * https://www.githubs.cn/
