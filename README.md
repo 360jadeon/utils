@@ -110,6 +110,16 @@ Java资源大全中文版:
 
 一枚❤🏀的程序猿:(kuzma、艾林林最爱的篮女)
 ![image](wx.jpg)
+<table>
+    <tr>
+      <td align="center" style="width: 200px;">
+        <a href="https://github.com/jadeon996">
+          <img src="./wx.jpg" style="width: 400px;"><br>
+          <sub>个人微信</sub>
+        </a><br>
+      </td>
+    </tr>
+</table>
 
 篮球直播:
 1. [直播吧](https://www.zhibo8.cc/ "直播吧")
