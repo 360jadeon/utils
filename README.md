@@ -108,19 +108,6 @@ Java资源大全中文版:
 + [MSDN](https://msdn.itellyou.cn/?lang=en-us "MSDN")
 + [官网](https://www.microsoft.com/en-us/software-download/windows10 "官网")
 
-一枚❤🏀的程序猿:(kuzma、艾林林最爱的篮女)
-![image](wx.jpg)
-<table>
-    <tr>
-      <td align="center" style="width: 200px;">
-        <a href="https://github.com/jadeon996">
-          <img src="./wx.jpg" style="width: 400px;"><br>
-          <sub>个人微信</sub>
-        </a><br>
-      </td>
-    </tr>
-</table>
-
 篮球直播:
 1. [直播吧](https://www.zhibo8.cc/ "直播吧")
 2. [足球巴巴](http://www.nba01.com/ "足球巴巴")
@@ -131,3 +118,14 @@ b站视频下载：
 
 > *[站酷(ZCOOL)-设计师互动平台](https://www.zcool.com.cn/ "站酷ZCOOL")*
 
+一枚❤🏀的程序猿:(kuzma、艾林林最爱的篮女)
+<table>
+    <tr>
+      <td align="center" style="width: 200px;">
+        <a href="https://github.com/jadeon996">
+          <img src="./wx.jpg" style="width: 400px;"><br>
+          <sub>个人微信</sub>
+        </a><br>
+      </td>
+    </tr>
+</table>
