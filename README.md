@@ -1,12 +1,7 @@
 
 # 全栈技术、工具分享
-===========================================
 
-GitHub中的README文件，使用markdown格式的文件。这种文件语法比较简单，特别容易上手。
-
-Markdown的语法简洁明了、学习容易，而且功能比纯文本更强，因此有很多人用它写博客。世界上最流行的博客平台WordPress和大型CMS如joomla、drupal都能很好的支持Markdown。
-
-下面简单介绍下相关语法：
+GitHub中的README文件，使用markdown格式的文件。这种文件语法比较简单，特别容易上手。Markdown的语法简洁明了、学习容易，而且功能比纯文本更强，因此有很多人用它写博客。世界上最流行的博客平台WordPress和大型CMS如joomla、drupal都能很好的支持Markdown。下面简单介绍下相关语法：
 
 大标题：
 
@@ -115,15 +110,3 @@ b站视频下载：
 + https://www.kanbilibili.com/video/
 
 > *[站酷(ZCOOL)-设计师互动平台](https://www.zcool.com.cn/ "站酷ZCOOL")*
-
-一枚❤🏀的程序猿:(kuzma、艾林林最爱的篮女)
-<table>
-    <tr>
-      <td align="center" style="width: 200px;">
-        <a href="https://github.com/jadeon996">
-          <img src="./wx.jpg" style="width: 400px;"><br>
-          <sub>个人微信</sub>
-        </a><br>
-      </td>
-    </tr>
-</table>
