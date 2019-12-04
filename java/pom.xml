@@ -86,11 +86,10 @@
             <version>1.2.62</version>
         </dependency>
 
-        <!--验证码 -->
+        <!--验证码 <version>2.3.2</version> -->
          <dependency>
              <groupId>com.github.penggle</groupId>
              <artifactId>kaptcha</artifactId>
-             <version>2.3.2</version>
          </dependency>
 
         <!-- 获取系统信息 -->
