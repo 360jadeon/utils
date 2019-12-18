@@ -23,42 +23,37 @@
 * [求职](./求职.md)
 * [编程相关工具](./编程相关工具.md)
 
-其他:
-
-github 图标: https://www.webfx.com/tools/emoji-cheat-sheet/
-
+* 其他
+  * 该网站实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库
+    * https://www.githubs.cn/
+    * https://hellogithub.com/
+    * http://overapi.com/
+  * 每日热榜:
+    *  https://www.printf520.com/hot.html
+  * 捷径盒：
+    *  https://jiejinghe.com/tags/fun
+  * 系统下载：
+    * [MSDN](https://msdn.itellyou.cn/?lang=en-us "MSDN")
+    * [官网](https://www.microsoft.com/en-us/software-download/windows10 "官网")
+  * 篮球直播:
+    * [直播吧](https://www.zhibo8.cc/ "直播吧")
+    * [足球巴巴](http://www.nba01.com/ "足球巴巴")
+    * [NBA直播吧_足球直播_篮球直播_高清免费体育直播-24直播网](https://m.24zbw.com/ "NBA直播吧_足球直播_篮球直播_高清免费体育直播-24直播网")
+  * b站视频下载：
+    *  https://www.kanbilibili.com/video/   
+  * 站酷(ZCOOL)-设计师互动平台
+    * https://www.zcool.com.cn/
+  * github 图标
+    * https://www.webfx.com/tools/emoji-cheat-sheet/
+  
 | github 图标1(左对齐) | github 图标2(居中) | github 图标3(右对齐)
 | :------------------ | :---------------: | ---------------:
 |  :blue_heart: |  :purple_heart: |  :heart:
 
+* Java资源大全中文版:
+  *  https://github.com/jobbole/awesome-java-cn
+* 程序员的自我修养
+  *  https://www.kancloud.cn/kancloud/a-programmer-prepares/78160
 
-该网站实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库
-* https://www.githubs.cn/
-* https://hellogithub.com/
-* http://overapi.com/
 
-Java资源大全中文版:
-+ https://github.com/jobbole/awesome-java-cn
 
-程序员的自我修养
-+ https://www.kancloud.cn/kancloud/a-programmer-prepares/78160
-
-每日热榜:
-+ https://www.printf520.com/hot.html
-
-捷径盒：
-+ https://jiejinghe.com/tags/fun
-
-系统下载：
-+ [MSDN](https://msdn.itellyou.cn/?lang=en-us "MSDN")
-+ [官网](https://www.microsoft.com/en-us/software-download/windows10 "官网")
-
-篮球直播:
-1. [直播吧](https://www.zhibo8.cc/ "直播吧")
-2. [足球巴巴](http://www.nba01.com/ "足球巴巴")
-3. [NBA直播吧_足球直播_篮球直播_高清免费体育直播-24直播网](https://m.24zbw.com/ "NBA直播吧_足球直播_篮球直播_高清免费体育直播-24直播网")
-
-b站视频下载：
-+ https://www.kanbilibili.com/video/
-
-> *[站酷(ZCOOL)-设计师互动平台](https://www.zcool.com.cn/ "站酷ZCOOL")*
