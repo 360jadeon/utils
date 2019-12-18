@@ -79,13 +79,23 @@ Markdown 支持两种形式的链接语法： 行内式和参考式两种形式�
 
 图片的语法和超链接非常相似。只显示图片：![github](http://example.com/unicorn.png “github”)；点击图片进入另一个网页：[![image]](http://www.example.com/) [image]: http://example.com/example.png “example“
 
-例子:
+表格:
+标题1 | 标题1 | 标题1 | ...   文字对齐方式：左对齐(默认)[*:---*]、右对齐[*---:*]、居中[*:---:*]
+
+实例:
 > - [css](./css "css")
 > - [html](./html "html")
 > - [javascript](./javascript "javascript")
 > - [java](./java "java")
 > - [python](./python "python")
 > - [wx](./wx "wx")
+
+github 图标: https://www.webfx.com/tools/emoji-cheat-sheet/
+
+| github 图标1(左对齐) | github 图标2(居中) | github 图标3(右对齐)
+| :------------------ | :---------------: | ---------------:
+|  :blue_heart: |  :purple_heart: |  :heart:
+
 
 该网站实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库
 * https://www.githubs.cn/
