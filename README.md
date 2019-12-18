@@ -1,5 +1,4 @@
-
-# 全栈技术、工具分享
+常用的实战相关工具类库（包含java、 python、 wx、 css、 html和javascript），电子文档，求职，编程和chrome插件的分享工具。 https://github.com/996jadeon/utils
 
 ## 目录
 * [css](./css "css")
@@ -50,10 +49,7 @@
 | :------------------ | :---------------: | ---------------:
 |  :blue_heart: |  :purple_heart: |  :heart:
 
-* Java资源大全中文版:
-  *  https://github.com/jobbole/awesome-java-cn
-* 程序员的自我修养
-  *  https://www.kancloud.cn/kancloud/a-programmer-prepares/78160
+
 
 
 
