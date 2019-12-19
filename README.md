@@ -2,13 +2,13 @@
 
 ## 目录
 * [css](./css "css")
-  * [css实战](./css/实战.md)
+  * [实战](./css/实战.md)
 * [html](./html "html")
-  * [html实战](./html/实战.md)
+  * [实战](./html/实战.md)
       * [中国天气.html](./html/中国天气.html)
       * [表格无缝滚动.html](./html/表格无缝滚动.html)
 * [javascript](./javascript "javascript")
-  * [javascript实战](./javascript/实战.md)
+  * [实战](./javascript/实战.md)
   * [API及资讯](./javascript/API及资讯.md)
 * [java](./java "java")
   * [框架和文章(实战项目)](./java/框架和文章(实战项目).md)
