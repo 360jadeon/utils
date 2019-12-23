@@ -34,9 +34,12 @@
   * 系统下载：
     * [MSDN](https://msdn.itellyou.cn/?lang=en-us "MSDN")
     * [官网](https://www.microsoft.com/en-us/software-download/windows10 "官网")
-  * 篮球直播:
+  * 体育【篮球、足球等】直播:
     * [直播吧](https://www.zhibo8.cc/ "直播吧")
-    * [足球巴巴](http://www.nba01.com/ "足球巴巴")
+    * [足球巴巴 :blue_heart:](http://www.nba01.com/ "足球巴巴")
+    * [925直播](http://www.925.tv/downApp "925直播")
+    * [黑白直播](http://www.heibaizhibo.com/ "黑白直播")
+    * [天天直播](https://www.tiantianzhibo.com/ "天天直播")
     * [NBA直播吧_足球直播_篮球直播_高清免费体育直播-24直播网](https://m.24zbw.com/ "NBA直播吧_足球直播_篮球直播_高清免费体育直播-24直播网")
   * b站视频下载：
     *  https://www.kanbilibili.com/video/   
