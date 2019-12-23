@@ -25,7 +25,9 @@
 * 其他
   * 该网站实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库
     * https://www.githubs.cn/
+  * 分享 GitHub 上有趣、入门级的开源项目  
     * https://hellogithub.com/
+  * OverAPI 工具集  
     * http://overapi.com/
   * 每日热榜:
     *  https://www.printf520.com/hot.html
