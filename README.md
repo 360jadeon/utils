@@ -31,6 +31,9 @@
     * http://overapi.com/
   * 每日热榜:
     *  https://www.printf520.com/hot.html
+  * 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+    * https://github.com/chinese-poetry/chinese-poetry
+    * http://shici.store
   * 捷径盒：
     *  https://jiejinghe.com/tags/fun
   * 系统下载：
