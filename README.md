@@ -27,11 +27,6 @@
 |  :blue_heart: |  :purple_heart: |  :heart:
 
 <div align="center">
- <img src="./sakuragi.jpg" alt="樱木花道"><br>
- <sup><strong>Hanamichi Sakuragi(樱木花道)</strong> :red_heart <strong>Haruko Akagi(晴子)</strong></sup>
+ <img src="https://github.com/996jadeon/utils/edit/master//sakuragi.jpg" alt="樱木花道"><br>
+ <sup><strong>Hanamichi Sakuragi(樱木花道)</strong> :red_heart: <strong>Haruko Akagi(晴子)</strong></sup>
  <div>
-<div align="center">
-<img src="https://octodex.github.com/images/megacat-2.png" width="200"><br>
-<sup><strong>Fig 1:</strong> Megatocat into action</sup>
-</div>
-View more octocats on the [Octodex](https://octodex.github.com/)!
