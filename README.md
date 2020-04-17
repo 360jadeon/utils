@@ -28,5 +28,5 @@
 
 <div align="center">
  <img src="https://img-blog.csdnimg.cn/20200417230812591.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVfbW9vbjgyMQ==,size_16,color_FFFFFF,t_70" width="300" height="300" alt="樱木花道"><br>
- <sup><strong>Hanamichi Sakuragi(樱木花道)</strong> :red_heart <strong>Haruko Akagi(晴子)</strong></sup>
+ <sup><strong>Hanamichi Sakuragi(樱木花道)</strong> :heart: <strong>Haruko Akagi(晴子)</strong></sup>
  <div>
