@@ -26,3 +26,8 @@
 | github 图标1(左对齐) | github 图标2(居中) | github 图标3(右对齐)
 | :------------------ | :---------------: | ---------------:
 |  :blue_heart: |  :purple_heart: |  :heart:
+
+<div style="align-center">
+ <img src="./sakuragi.jpg" alt="樱木花道"><br>
+ <sup><strong>Hanamichi Sakuragi(樱木花道)</strong> :red_heart <strong>Haruko Akagi(晴子)</strong></sup>
+ <div>
